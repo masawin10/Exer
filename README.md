@@ -1,1 +1,1 @@
-# BeEngineer 第 4 章 Git とデプロイの演習問題 "Yamaguchi Masahiro"
+# BeEngineer 第 4 章 Git とデプロイの演習問題
